@@ -53,19 +53,19 @@ This module verify the TIN and branch number. It the pair is not valid, the modu
 Though, a user can still save the record, if needed.
 
 Verify TIN
- .. figure:: https://raw.githubusercontent.com/OCA/l10n-thailand/13.0/l10n_th_tin_service/static/description/tin_validation.png
+ .. figure:: ../static/description/tin_validation.png
     :alt: Validate TIN
     :width: 80 %
     :align: center
 
 Verify Branch number
- .. figure:: https://raw.githubusercontent.com/OCA/l10n-thailand/13.0/l10n_th_tin_service/static/description/branch_validation.png
+ .. figure:: ../static/description/branch_validation.png
     :alt: Validate Branch
     :width: 80 %
     :align: center
 
 Validate Branch format
- .. figure:: https://raw.githubusercontent.com/OCA/l10n-thailand/13.0/l10n_th_tin_service/static/description/branch_format.png
+ .. figure:: ../static/description/branch_format.png
     :alt: Verify Branch number format
     :width: 80 %
     :align: center
